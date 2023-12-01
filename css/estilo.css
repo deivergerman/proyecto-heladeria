@@ -1,0 +1,47 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(50deg, rgba(155, 3, 49, 0.753), #0659ff );
+    
+}
+#contenedor{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    background-image: linear-gradient(50deg, rgb(3, 50, 145), #9b0330c0);
+    text-align: center;
+    color: aliceblue;
+    padding-block: auto;
+}
+footer{
+    font-family: 'Times New Roman', Times, serif;
+    height: auto;
+    margin: auto;
+    
+    padding-top: 6px;
+    text-align: right;
+}
+.pantalla_o{
+    display: none;
+}
+.pantalla_2{
+    display: block;
+}
+.pantalla_1{
+    display: block;
+}
+nav{
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    background-image: linear-gradient(50deg, rgb(3, 50, 145), #9b0330c0);
+
+}
+button{
+    margin: auto;
+   padding-inline: 9%;
+    color: white;
+    border-radius: 50px;
+    background: linear-gradient(rgb(9, 121, 185), transparent);
+ }
